@@ -4,5 +4,7 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[Click to open page](https://nirav-raval.github.io/Four-Card-Feature-Section/)
+
+[Frontend Mentor](https://www.frontendmentor.io) challenges helps to improve coding skills by building realistic projects.
 
